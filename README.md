@@ -1,6 +1,7 @@
 # IT Support Ticket Analysis & Dashboard in Excel 📊
 
-![Dashboard Preview](Excel Dashboard.png)
+<img width="1232" height="563" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/2bc8c74a-83b2-4025-b09e-dcc072fea73f" />
+
 
 ---
 
@@ -111,16 +112,17 @@ The interactive Excel Dashboard includes:
 ---
 
 ## 📎 Files in This Repository
-- `IT-Ticket-Analysis-PPT_Meetanshi.pptx` – Executive summary of findings and recommendations.
+- `IT Ticket Analysis PPT_Meetanshi.pptx` – Executive summary of findings and recommendations.
 - `Tasks_Meetanshi.docx` – Detailed calculation methods and pivot table instructions.
-- `IT_Support_Dashboard.xlsx` – Interactive Excel dashboard (if shareable).
+- `IT Support Dashboard_Meetanshi.xlsx` – Interactive Excel dashboard.
+- `Excel Dashboard.png` – Dashboard Preview.
 - `README.md` – Documentation.
 
 ---
 
 ## 📬 Author
 **Meetanshi Gupta**  
-Data Analysis & Visualization in Excel Specialist
+Data & Business Analyst
 
 ---
 
