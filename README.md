@@ -126,7 +126,7 @@ The interactive Excel Dashboard includes:
 
 ## 📬 Author
 **Meetanshi Gupta**  
-_Data & Business Analyst | Visualization Specialist_
+_Data & Business Analyst | Business Intelligence Developer_
 
 ---
 
