@@ -1,4 +1,4 @@
-# IT Support Ticket Analysis & Dashboard in Excel 📊
+# IT Support Ticket Analysis | Excel Portfolio Project
 
 [![Excel](https://img.shields.io/badge/Excel-Dashboard-success?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/en/microsoft-365/excel)
 [![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-blue)]()
