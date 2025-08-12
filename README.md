@@ -1,5 +1,11 @@
 # IT Support Ticket Analysis & Dashboard in Excel 📊
 
+![Dashboard Preview](docs/Excel-Dashboard.jpg)
+
+[![Excel](https://img.shields.io/badge/Excel-Dashboard-success?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/en/microsoft-365/excel)
+[![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-blue)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)]()
+
 <img width="1232" height="563" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/2bc8c74a-83b2-4025-b09e-dcc072fea73f" />
 
 
@@ -122,7 +128,7 @@ The interactive Excel Dashboard includes:
 
 ## 📬 Author
 **Meetanshi Gupta**  
-Data & Business Analyst
+_Data & Business Analyst | Visualization Specialist_
 
 ---
 
