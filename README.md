@@ -1,10 +1,6 @@
 # IT Support Ticket Analysis & Dashboard in Excel 📊
 
-![Dashboard Preview](docs/Excel-Dashboard.jpg)
-
-[![Excel](https://img.shields.io/badge/Excel-Dashboard-success?style=flat-square&logo=microsoft-excel)](https://www.microsoft.com/en/microsoft-365/excel)
-[![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-blue)]()
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)]()
+![Dashboard Preview](Excel Dashboard.png)
 
 ---
 
